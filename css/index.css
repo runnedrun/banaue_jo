@@ -1,0 +1,51 @@
+#terraces {
+	padding: 0px; /* to get rid of the bootrap gutters for collumn */	
+	max-height:96vh;
+}
+
+.info-row {
+	text-align: center;	
+	min-height: 4%;
+	font-size: 18px;
+	font-weight: bold;
+	background: cornsilk;
+}
+
+.overlay-text {
+	position: absolute;
+	top: 15%;	
+	color: cornsilk;
+	text-align: center;
+	width: 100%;
+	font-size: 24px;
+}
+
+#jody {	
+	max-height: 100vh
+}
+
+div.jody-container {
+	padding-left: 0px;
+	text-align: center;
+	height: 100vh;
+	overflow: hidden;
+}
+
+.section-two {
+	background: white	;	
+}
+.intro {
+	height: 100vh;
+}
+
+.intro-body {
+	font-size: 18px
+}
+/*.section-one {
+	height: 100vh;
+}*/
+
+/*.info-row {		
+	background: black;	
+	color: white
+}*/
